@@ -11,7 +11,7 @@
 <!--Para quem for reutilizar o código abaixo, é só trocar o nome de usuário para o seu! 😉✌🏼-->
 
 <a href="https://github.com/Ismaelgoncalvesdasil">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ismaelgoncalvesdasil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ismaelgoncalvesdasilshow_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismaelgoncalvesdasil&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br>
@@ -30,7 +30,7 @@
  <br>
   <div align="center">
   <h3>Contatos</h3>
-  <a href="https://www.linkedin.com/in/jean-vitor-sena-56693624b/"_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com//"_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
   <br>
