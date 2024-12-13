@@ -1,6 +1,6 @@
 <h1 align="center">Hello, World!</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=OLÁ+SEJA+BEM-VINDO!;MEU+NOME+É+Ismael+Gonçalves!;TENHO+20+ANOS!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=OLÁ+SEJA+BEM-VINDO!;MEU+NOME+É+Ismael+Gonçalves!;TENHO+21+ANOS!)](https://git.io/typing-svg)
 
 <br>
 <p>🏡- Moro no Rio de Janeiro, RJ</p>
